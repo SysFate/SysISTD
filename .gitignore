@@ -1,0 +1,3 @@
+*.pyc
+dist/*
+SysISTD.egg-info/*
