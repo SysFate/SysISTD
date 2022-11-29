@@ -1,5 +1,5 @@
 # SysISTD
-A RealTime Variant Detector software.
+A demultiplexer for SysFate Illumina spatial transcriptomic.
 
 ## Description
 
